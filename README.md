@@ -8,9 +8,13 @@
 
 ## Usage
 
-    ```npm install``` 
+    ``` bash
+    npm install
+    ``` 
     and 
-    ```npm start``` 
+    ``` bash
+    npm start
+    ``` 
     to execute the project.
     Require simulator to test IOS version or Android version.
     Or install Expo Client to run on your phone
