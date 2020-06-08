@@ -7,14 +7,16 @@
 ### React Native, Redux, react-native-elements UI library
 
 ## Usage
+```bash
+npm install
+``` 
 
-    ```bash
-    npm install
-    ``` 
-    and 
-    ```bash
-    npm start
-    ``` 
-    to execute the project.
-    Require simulator to test IOS version or Android version.
-    Or install Expo Client to run on your phone
+and 
+
+```bash
+npm start
+``` 
+
+to execute the project.
+Require simulator to test IOS version or Android version.
+Or install Expo Client to run on your phone
