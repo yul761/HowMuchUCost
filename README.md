@@ -8,11 +8,11 @@
 
 ## Usage
 
-    ``` bash
+    ```bash
     npm install
     ``` 
     and 
-    ``` bash
+    ```bash
     npm start
     ``` 
     to execute the project.
